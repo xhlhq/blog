@@ -1,12 +1,11 @@
 module.exports = [
   { text: '首页', link: '/' },
-  { text: '先导', link: '/guide/' },
-  { text: '计算机', link: '/computer/' },
-  { text: '系统', items: [
-    { text: 'Linux', link: '/os/linux/' },
-    { text: 'Manjaro', link: '/os/manjaro/' },
-    { text: 'Ubuntu', link: '/os/ubuntu/' },
-    { text: 'CentOS', link: '/os/centos/' },
+  { text: '前言', link: '/guide/' },
+  { text: '框架', items: [
+    { text: 'Vue', link: '/framework/vue/' },
+    { text: 'Angular', link: '/framework/angular/' },
+    { text: 'React', link: '/framework/react/' },
+    { text: 'BootStrap', link: '/framework/bootstrap/' },
   ]},
   { text: '前端', items: [
     { text: 'JavaScript', link: '/frontend/javascript/' },
@@ -14,13 +13,13 @@ module.exports = [
     { text: 'Webpack', link: '/frontend/webpack/' },
     { text: 'D3', link: '/frontend/d3js/' },
     { text: 'Utils', link: '/frontend/utils/' },
+    { text: 'Ajax', link: '/frontend/ajax/' },
+    { text: 'Vue', link: '/frontend/vue/' },
   ]},
   { text: '后端', items: [
     { text: 'Nodejs', link: '/backend/nodejs/' },
     { text: 'Koa', link: '/backend/koa/' },
-    { text: 'Nginx', link: '/backend/nginx/' },
     { text: 'MongoDB', link: '/backend/mongodb/' },
-    { text: 'Docker', link: '/backend/docker/' },
   ]},
   { text: '开发工具', items: [
     { text: 'Git', link: '/tools/git/' },
