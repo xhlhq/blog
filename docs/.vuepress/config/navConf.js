@@ -14,7 +14,6 @@ module.exports = [
     { text: 'D3', link: '/frontend/d3js/' },
     { text: 'Utils', link: '/frontend/utils/' },
     { text: 'Ajax', link: '/frontend/ajax/' },
-    { text: 'Vue', link: '/frontend/vue/' },
   ]},
   { text: '后端', items: [
     { text: 'Nodejs', link: '/backend/nodejs/' },

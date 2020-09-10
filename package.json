@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shanyuhai123/documents.git"
+    "url": "git+https://github.com/xhlhq/blog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shanyuhai123/documents/issues"
+    "url": "https://github.com/xhlhq/blog/issues"
   },
-  "homepage": "https://github.com/shanyuhai123/documents#readme",
+  "homepage": "https://github.com/xhlhq/blog#readme",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.5.3",
     "@vuepress/plugin-google-analytics": "^1.5.3",
