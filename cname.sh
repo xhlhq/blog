@@ -4,4 +4,4 @@
 
 set -e
 
-echo 'docs.xhlhq.top' > docs/.vuepress/dist/CNAME
+echo 'docs.coderf.cn' > docs/.vuepress/dist/CNAME

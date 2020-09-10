@@ -14,14 +14,5 @@ module.exports = {
     editLinkText: '编辑文档！',
     docsDir: 'docs',
     nav: navConf,
-    algolia: {
-      appId: 'M698VCXCJN',
-      apiKey: '8b552055fb68ffc808bfbd3f98a1dbe2',
-      indexName: 'shanyuhai_documents',
-      algoliaOptions: {
-        hitsPerPage: 10,
-        facetFilters: ""
-      }
-    }
   },
 }

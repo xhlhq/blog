@@ -1,6 +1,6 @@
 {
   "index_name": "shanyuhai_documents",
-  "start_urls": ["https://docs.shanyuhai.top/"],
+  "start_urls": ["https://coderf.cn/"],
   "selectors": {
     "lvl0": {
       "selector": "p.sidebar-heading.open",
